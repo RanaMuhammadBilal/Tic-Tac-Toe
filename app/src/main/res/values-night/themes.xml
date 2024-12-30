@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.TicTacToe" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="android:statusBarColor">#000D23</item>
+        <item name="colorPrimary">#000000</item>
+        <item name="colorSecondary">#000000</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
